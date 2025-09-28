@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Jan Adam Halama
 set -euo pipefail
 
 CONFIG="$HOME/Library/Application Support/com.mitchellh.ghostty/config"
